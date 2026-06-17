@@ -1,0 +1,5 @@
+weights:
+  diffusion: /home/shared/anonimization_weights/diffusion.ckpt
+  pix2pix: /home/shared/anonimization_weights/pix2pix.ckpt
+  binary_segmentation: /home/shared/anonimization_weights/binary-segmentation.ckpt
+  classifier: checkpoints/classifier.ckpt
